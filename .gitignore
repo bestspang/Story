@@ -1,6 +1,7 @@
 ## Project-wide
 
 .DS_Store
+secret.txt
 
 ## Build generated
 build/
