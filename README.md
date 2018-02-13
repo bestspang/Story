@@ -11,7 +11,7 @@ this is `main template`
 ```
 git clone https://github.com/bestspang/VRf_templateBP
 ```
-**Multi-player simple LAN templat:**
+**Multi-player simple LAN template:**
 
 [https://github.com/bestspang/VRf_templates](https://github.com/bestspang/VRf_templates)
 ```
